@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'Testing'
-  s.version      = '1.0.0'
+  s.version      = '1.0.1'
   s.summary      = 'Small library that can be used to test CocoaPod stuff (CI, building etc.)'
   s.homepage     = 'https://cocoapods.org'
   s.license      = { :type => 'Proprietary', :text => "© #{ Date.today.year } Justin Martin, Inc." }
